@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Akshaya
 
-<!--
-**akshaya2215/akshaya2215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student at VIT
 
-Here are some ideas to get you started:
+## About Me
+- Interested in FPGA Design, VLSI, and Embedded Systems
+- Learning Verilog HDL and Digital Design
+- Passionate about IoT and Hardware Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C
+- C++
+- Python
+- Verilog HDL
+- MATLAB
+- Arduino
+- ESP32
+- Vivado
+- Quartus
+- Qt Creator
+
+## Projects
+
+### FPGA Double Precision Floating Point Multiplier
+Designed and implemented an IEEE-754 compliant floating-point multiplier using Verilog HDL on Xilinx Artix-7 FPGA.
+
+### Smart Knock Detection System
+Developed a piezo sensor-based knock detection system with ESP32 notifications and buzzer alerts.
+
+### Ultrasonic Distance Alert System
+Built an Arduino-based distance monitoring and alert system using ultrasonic sensors.
+
+## Internship
+Worked on:
+- TCP/IP Communication
+- Socket Programming
+- Qt GUI Development
+- MySQL Integration
+- Arduino Sensor Interfacing
+
+## Connect With Me
+- LinkedIn: Add your LinkedIn link here
+- Email: Add your email here
