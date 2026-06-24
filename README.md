@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshaya</h1>
-<h3 align="center">Software Developer • AI & ML Enthusiast • ECE @ VIT</h3>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Akshaya+%F0%9F%91%8B;Software+Developer;AI+%26+Machine+Learning+Explorer;FPGA+%7C+Qt+%7C+Embedded+Systems;Building+Innovative+Tech+Solutions+%F0%9F%9A%80" />
