@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Akshaya+%F0%9F%91%8B;Software+Developer;AI+%26+Machine+Learning+Explorer;FPGA+%7C+Qt+%7C+Embedded+Systems;Building+Innovative+Tech+Solutions+%F0%9F%9A%80" />
 </p>
 <p align="center">
-<a href="https://linkedin.com/in/akshaya_m_v">
+<a href="[https://linkedin.com/in/akshaya_m_v](https://www.linkedin.com/in/akshaya-m-v-90746b367/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
