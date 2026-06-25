@@ -21,7 +21,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=akshaya2215&style=for-the-badge&color=blue"/>
 </p>
----
+
 
 ## 🚀 About Me
 
