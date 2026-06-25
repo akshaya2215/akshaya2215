@@ -1,20 +1,26 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Akshaya Banner" width="100%">
 </p>
-<!-- <h1 align="center">Hi 👋 I'm Akshaya</h1>
-
-<!-- <h3 align="center">
-Software Developer • AI & ML Enthusiast • FPGA Developer
-</h3> --> -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Software+that+Connects+Hardware+and+AI;Qt+Developer;Machine+Learning+Explorer;Embedded+Systems+Enthusiast;Always+Learning+🚀">
-</p>
-
-<!-- <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Akshaya+%F0%9F%91%8B;Software+Developer;AI+%26+Machine+Learning+Explorer;FPGA+%7C+Qt+%7C+Embedded+Systems;Building+Innovative+Tech+Solutions+%F0%9F%9A%80" />
-</p> -->
+</p>
+<p align="center">
+<a href="https://linkedin.com/in/akshaya_m_v">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="mailto:akshaya.mv2024@vitstudent.ac.in">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akshaya2215">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=akshaya2215&style=for-the-badge&color=blue"/>
+</p>
 ---
 
 ## 🚀 About Me
@@ -92,9 +98,9 @@ Software Developer • AI & ML Enthusiast • FPGA Developer
 
 ### Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,git,github,vscode,arduino" />
-</p>
+<p>
 
 ## 💻 Featured Projects
 
@@ -150,13 +156,22 @@ Gained hands-on experience in software development, communication protocols, and
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=akshaya2215&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshaya2215&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaya2215&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshaya2215&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaya2215&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaya2215&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 
-⭐ Thanks for visiting my profile!
+<h3 align="center">
+✨ Thanks for visiting! Let's build something amazing together 🚀
+</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=120&section=footer"/>
+</p>
