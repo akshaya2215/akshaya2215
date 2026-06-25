@@ -1,12 +1,11 @@
 <p align="center">
-<img src="YOUR_BANNER_HERE" width="100%">
+  <img src="./assets/banner.png" alt="Akshaya Banner" width="100%">
 </p>
+<!-- <h1 align="center">Hi 👋 I'm Akshaya</h1>
 
-<h1 align="center">Hi 👋 I'm Akshaya</h1>
-
-<h3 align="center">
+<!-- <h3 align="center">
 Software Developer • AI & ML Enthusiast • FPGA Developer
-</h3>
+</h3> --> -->
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Software+that+Connects+Hardware+and+AI;Qt+Developer;Machine+Learning+Explorer;Embedded+Systems+Enthusiast;Always+Learning+🚀">
